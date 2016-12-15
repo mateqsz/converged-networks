@@ -12,7 +12,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 
 ## Architektura storage w ujęciu ogólnym:
 ### DAS
-### [NAS] (converged-networks/SAN-2.md)
+### [SAN] (SAN-2.md)
 ### SAN
 
 ## Systemy RAID
